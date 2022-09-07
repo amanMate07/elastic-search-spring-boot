@@ -8,7 +8,7 @@
 		<version>2.6.10</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.mb.elasticsearch</groupId>
+	<groupId>com.elasticsearch</groupId>
 	<artifactId>elastic-search-boilerplate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>elastic-search-boilerplate</name>
